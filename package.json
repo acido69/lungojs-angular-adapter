@@ -1,0 +1,20 @@
+{
+  "author": "Jimmy Collazos || acido69",
+  "name": "lungojs-angular-adapter",
+  "homepage": "https://github.com/acido69/lungojs-angular-adapter",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/acido69/lungojs-angular-adapter"
+  },
+  "bugs": {
+    "url": "https://github.com/acido69/lungojs-angular-adapter/issues"
+  },
+  "engines": {
+    "node": ">= 0.8.4"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.3.17"
+  }
+}
