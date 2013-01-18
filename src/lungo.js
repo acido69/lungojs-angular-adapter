@@ -1,0 +1,1 @@
+angular.module('lungo', ['lungo:value','lungo:layout','lungo:data','lungo:event']);
